@@ -2,6 +2,7 @@
 
 主要功能：RBAC
 篮球游戏小程序后台和API接口
+持续更新中
 
 安装:     
 	1、下载源文件或git clone https://github.com/596032364/june.git     
